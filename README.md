@@ -1,13 +1,5 @@
-# Yanibkz.github.io
+# Portfolio
 
-Data Scientist
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-Education
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
-Work Experience
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
+## Présentation 👨🏻‍💻
 
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+Diplômé en Gestion, spécialité Stratégie et Économie, j'ai évolué vers la Data Science avant de plonger dans un Master en Data Management. J'ai également acquis de l'expérience en data engineering, développant une expertise technique approfondie dans la manipulation des données. Armé de ces compétences, je suis prêt à transformer les défis en innovations significatives à travers une gestion stratégique des données.
