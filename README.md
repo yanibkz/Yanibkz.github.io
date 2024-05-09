@@ -59,17 +59,17 @@ Outils Utilisés :
 ## Formation 🎓
 
 <div>
-  <span style="float: left;">Paris School of Business, PGE Master Data Management</span>
+  <span style="float: left;">- Paris School of Business, PGE Master Data Management</span>
   <span style="float: right;">2023-2025</span>
   <div style="clear: both;"></div>
 </div>
 <div>
-  <span style="float: left;">Openclassroom et Centrale Supelec, Data Scientist – RNCP 7 </span>
+  <span style="float: left;">- Openclassroom et Centrale Supelec, Data Scientist – RNCP 7 </span>
   <span style="float: right;">2022-2023</span>
   <div style="clear: both;"></div>
 </div>
 <div>
-  <span style="float: left;">Université Panthéon-Sorbonne, Licence Gestion SEE </span>
+  <span style="float: left;">- Université Panthéon-Sorbonne, Licence Gestion SEE </span>
   <span style="float: right;">2019-2022</span>
   <div style="clear: both;"></div>
 </div>
