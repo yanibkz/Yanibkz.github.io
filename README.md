@@ -8,6 +8,8 @@ Diplômé en Gestion, spécialité Stratégie et Économie, j'ai évolué vers l
 
 </div>
 
+<br>
+<br>
 
 
 --- 
