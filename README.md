@@ -7,6 +7,9 @@
 Diplômé en Gestion, spécialité Stratégie et Économie, j'ai évolué vers la Data Science avant de plonger dans un Master en Data Management. J'ai également acquis de l'expérience en data engineering, développant une expertise technique approfondie dans la manipulation des données. Armé de ces compétences, je suis prêt à transformer les défis en innovations significatives à travers une gestion stratégique des données.
 
 </div>
+
+
+
 --- 
 
 
@@ -17,7 +20,7 @@ Diplômé en Gestion, spécialité Stratégie et Économie, j'ai évolué vers l
   <span style="float: right;">2023-2024</span>
   <div style="clear: both;"></div>
 </div>
-
+<br>
 <ul>
   <li>Travail sur la mise en place d'un dictionnaire de données et la création de rapports exhaustifs.</li>
   <li>Gestion et structuration de données pour rapports analytiques avec gestion de métadonnées.</li>
@@ -25,9 +28,9 @@ Diplômé en Gestion, spécialité Stratégie et Économie, j'ai évolué vers l
   <li>Création et mise en œuvre de pipelines ETL en Python via Apache Airflow, résultant en une optimisation marquée de l’efficience du traitement des données.</li>
   <li>Participation à l'intégration de flux de données et à la diffusion d'informations via différents canaux.</li>
 </ul>
-
-<h2>Outils Utilisés :</h2>
-
+<br>
+Outils Utilisés :
+<br>
 <p>SAPBW S4HANA, SAP BO, Powerquery, Streamlit, Apache Airflow</p>
 
 
