@@ -15,7 +15,7 @@ Diplômé en Gestion, spécialité Stratégie et Économie, j'ai évolué vers l
   <span style="float: right;">2023-2024</span>
   <div style="clear: both;"></div>
 </div>
-<div style="text-align: justify;">
+
 
 • Travail sur la mise en place d'un dictionnaire de données et la création de rapports exhaustifs.
 • Gestion et structuration de données pour rapports analytiques avec gestion de métadonnées.
@@ -25,4 +25,3 @@ marquée de l’efficience du traitement des données.
 • Participation à l'intégration de flux de données et à la diffusion d'informations via différents canaux.
 
 Outils : SAPBW S4HANA, SAP BO, Powerquery, Streamlit, Apache Airflow
-</div>
