@@ -1,5 +1,11 @@
 title: Yani Boukhezar
 logo: /Asset/IMG_1047_circle.png
 description: DataLab !
-show_downloads: true
+#show_downloads: true
+email: boukhezar.yani@hotmail.com
+social:
+  - title: GitHub
+    url: https://github.com/yanibkz
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/yani-boukhezar-4740b0235/
 theme: jekyll-theme-minimal
