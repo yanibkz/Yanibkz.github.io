@@ -9,7 +9,7 @@ Diplômé en Gestion, spécialité Stratégie et Économie, j'ai évolué vers l
 </div>
 
 
-
+<br>
 
 --- 
 
@@ -21,7 +21,7 @@ Diplômé en Gestion, spécialité Stratégie et Économie, j'ai évolué vers l
   <span style="float: right;">2023-2024</span>
   <div style="clear: both;"></div>
 </div>
-<br>
+
 <ul>
   <li>Travail sur la mise en place d'un dictionnaire de données et la création de rapports exhaustifs.</li>
   <li>Gestion et structuration de données pour rapports analytiques avec gestion de métadonnées.</li>
@@ -69,7 +69,7 @@ Outils Utilisés :
   <div style="clear: both;"></div>
 </div>
 <div>
-  <span style="float: left;">Université Panthéon-Sorbonne, Licence Gestion Stratégie et Économie d’Entreprise</span>
+  <span style="float: left;">Université Panthéon-Sorbonne, Licence Gestion SEE </span>
   <span style="float: right;">2019-2022</span>
   <div style="clear: both;"></div>
 </div>
