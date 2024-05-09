@@ -35,3 +35,50 @@ Outils Utilisés :
 <p>SAPBW S4HANA, SAP BO, Powerquery, Streamlit, Apache Airflow</p>
 
 
+<br>
+
+
+--- 
+
+## Projets professionnalisants
+<br>
+<ul>
+  
+<li>Concevoir une application au service de la santé publique (ACP, KNN)</li>
+<li>Anticiper les besoins en consommation électrique de bâtiments (Random Forest, XGBoost, ADAboost, Gradient Boost, Ridge, Lasso, Elastic Net)</li>
+<li>Segmenter des clients d'un site d'e-commerce (Kmeans, Dbscan, CAH)</li>
+<li>Classifier automatiquement des biens de consommation (Tf-idf, Word2vec, BERT, USE, SIFT,  ORB, SURF, CNN)</li>
+<li>Implémenter un modèle de scoring (Scoring, Git, MLflow,Streamlit)</li>
+<li>Déployer un modèle dans le cloud (Big data, AWS, EMR, S3, IAM, Pyspark) </li>
+
+</ul>
+
+
+<br>
+
+
+--- 
+
+## Formation
+
+<div>
+  <span style="float: left;">Paris School of Business, PGE Master Data Management</span>
+  <span style="float: right;">2023-2025</span>
+  <div style="clear: both;"></div>
+</div>
+<br>
+<div>
+  <span style="float: left;">Openclassroom et Centrale Supelec, Data Scientist – RNCP 7 (Bac+5)</span>
+  <span style="float: right;">2022-2023</span>
+  <div style="clear: both;"></div>
+</div>
+<br>
+<div>
+  <span style="float: left;">Université Panthéon-Sorbonne, Licence Gestion Stratégie et Économie d’Entreprise</span>
+  <span style="float: right;">2019-2022</span>
+  <div style="clear: both;"></div>
+</div>
+
+
+
+
