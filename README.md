@@ -41,7 +41,6 @@ Outils Utilisés :
 --- 
 
 ## Projets professionnalisants
-<br>
 <ul>
   
 <li>Concevoir une application au service de la santé publique (ACP, KNN)</li>
@@ -66,13 +65,11 @@ Outils Utilisés :
   <span style="float: right;">2023-2025</span>
   <div style="clear: both;"></div>
 </div>
-<br>
 <div>
   <span style="float: left;">Openclassroom et Centrale Supelec, Data Scientist – RNCP 7 (Bac+5)</span>
   <span style="float: right;">2022-2023</span>
   <div style="clear: both;"></div>
 </div>
-<br>
 <div>
   <span style="float: left;">Université Panthéon-Sorbonne, Licence Gestion Stratégie et Économie d’Entreprise</span>
   <span style="float: right;">2019-2022</span>
