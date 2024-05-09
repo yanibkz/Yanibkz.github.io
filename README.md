@@ -1,6 +1,6 @@
 # Portfolio
 
-## Présentation 👨🏻‍💻
+## Présentation 🙎🏻‍♂️
 
 <div style="text-align: justify;">
 
@@ -14,7 +14,7 @@ Diplômé en Gestion, spécialité Stratégie et Économie, j'ai évolué vers l
 --- 
 
 
-## Expérience Professionnelle 🔧
+## Expérience Professionnelle 👨🏻‍💻
 
 <div>
   <span style="float: left;">La Poste Groupe – DSI Colissimo | Alternance Data Engineer</span>
