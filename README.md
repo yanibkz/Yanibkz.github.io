@@ -66,7 +66,7 @@ Outils Utilisés :
   <div style="clear: both;"></div>
 </div>
 <div>
-  <span style="float: left;">Openclassroom et Centrale Supelec, Data Scientist – RNCP 7 (Bac+5)</span>
+  <span style="float: left;">Openclassroom et Centrale Supelec, Data Scientist – RNCP 7 </span>
   <span style="float: right;">2022-2023</span>
   <div style="clear: both;"></div>
 </div>
