@@ -8,7 +8,7 @@ Diplômé en Gestion, spécialité Stratégie et Économie, j'ai évolué vers l
 
 </div>
 
-<br>
+
 
 
 --- 
@@ -29,13 +29,12 @@ Diplômé en Gestion, spécialité Stratégie et Économie, j'ai évolué vers l
   <li>Création et mise en œuvre de pipelines ETL en Python via Apache Airflow, résultant en une optimisation marquée de l’efficience du traitement des données.</li>
   <li>Participation à l'intégration de flux de données et à la diffusion d'informations via différents canaux.</li>
 </ul>
-<br>
+
 Outils Utilisés :
-<br>
+
 <p>SAPBW S4HANA, SAP BO, Powerquery, Streamlit, Apache Airflow</p>
 
 
-<br>
 
 
 --- 
@@ -53,7 +52,6 @@ Outils Utilisés :
 </ul>
 
 
-<br>
 
 
 --- 
