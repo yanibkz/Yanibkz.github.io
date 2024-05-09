@@ -40,7 +40,7 @@ Outils Utilisés :
 
 --- 
 
-## Projets professionnalisants
+## Projets professionnalisants 🛠️
 <ul>
   
 <li>Concevoir une application au service de la santé publique (ACP, KNN)</li>
@@ -58,7 +58,7 @@ Outils Utilisés :
 
 --- 
 
-## Formation
+## Formation 🎓
 
 <div>
   <span style="float: left;">Paris School of Business, PGE Master Data Management</span>
